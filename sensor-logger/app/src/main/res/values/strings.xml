@@ -12,7 +12,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">data</string>
+    <string name="app_name">sensor-logger</string>
     <!--
     This string is used for square devices and overridden by hello_world in
     values-round/strings.xml for round devices.

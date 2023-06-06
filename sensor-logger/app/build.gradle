@@ -22,10 +22,10 @@ plugins {
 android {
     compileSdk 33
 
-    namespace "com.delta.data"
+    namespace "com.delta.sensor_logger"
 
     defaultConfig {
-        applicationId "com.delta.data"
+        applicationId "com.delta.sensor_logger"
         minSdk 25
         targetSdk 30
         versionCode 1

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.delta.logger
+package com.delta.sensor_logger
 
 import android.hardware.Sensor
 import android.hardware.SensorManager
@@ -37,7 +37,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.lifecycle.ViewModel
 import androidx.wear.compose.material.MaterialTheme
 import androidx.wear.compose.material.Text
-import com.delta.logger.presentation.theme.WearAppTheme
+import com.delta.sensor_logger.presentation.theme.WearAppTheme
 import java.io.File
 import java.io.FileOutputStream
 import java.text.SimpleDateFormat

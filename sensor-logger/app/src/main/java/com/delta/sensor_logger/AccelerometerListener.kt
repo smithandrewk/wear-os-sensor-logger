@@ -1,4 +1,4 @@
-package com.delta.logger
+package com.delta.sensor_logger
 
 import android.hardware.Sensor
 import android.hardware.SensorEvent
